@@ -1,0 +1,7 @@
+*.pdf
+/venv/
+.idea
+__pycache__
+analysis.txt
+frequencies.txt
+.pytest_cache

@@ -1,0 +1,22 @@
+One pair: 42.2570301% EV: 42.2569
+Two pairs: 4.7543836% EV: 4.7539
+Three of a kind: 2.113254% 	EV: 2.11285
+Straight: 0.39233080000000004% EV: 0.392465
+Flush: 0.1965857% EV: 0.19654
+Full House: 0.14409534% EV: 0.144058
+Four of a kind: 0.023967500000000003% EV: 0.0240096
+Straight flush: 0.0013809% EV: 	0.00138517
+Royal flush: 0.0001597% EV: 0.000153908	
+
+Highcard of 7: 0.15699180000000001%
+Highcard of 8: 0.5492585%
+Highcard of 9: 1.3342845%
+Highcard of A: 19.347559%
+Highcard of J: 4.905776299999999%
+Highcard of K: 12.9125926%
+Highcard of Q: 8.2027062%
+Highcard of T: 2.7076434%
+
+Total highcards: 50.1168123 Expected value: 50.1177
+
+1000.0 Million hands
